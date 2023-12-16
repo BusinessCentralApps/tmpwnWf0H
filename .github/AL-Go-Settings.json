@@ -5,5 +5,6 @@
   "type": "AppSource App",
   "useCompilerFolder": false,
   "doNotPublishApps": false,
-  "MicrosoftTelemetryConnectionString": ""
+  "MicrosoftTelemetryConnectionString": "",
+  "templateSha": "e85bf9ec46d5cecfd51c960be196ad3af3ff719a"
 }
