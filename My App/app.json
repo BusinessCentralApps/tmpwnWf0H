@@ -22,7 +22,7 @@
     }
   ],
   "privacyStatement": "https://dev.azure.com/businesscentralapps/HelloWorld.AppSource",
-  "version": "2.0.0.0",
+  "version": "3.0.0.0",
   "features": [
     "TranslationFile"
   ],
